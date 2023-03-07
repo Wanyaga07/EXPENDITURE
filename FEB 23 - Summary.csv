@@ -1,0 +1,41 @@
+,,,,,,,,,,,
+,GET STARTED,,,,,,,NOTE,,,
+,"Set your starting balance in cell L8, then customize your categories and planned spending amounts in the 'Income' and 'Expenses' tables below.",,,,,,,Only edit highlighted cells.,,,
+,,,,,,,,Try not to alter cells that contain a formula. ,,,
+,"As you enter data in the 'Transactions' tab, this sheet will automatically update to show a summary of your spending for the month.",,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Monthly Budget,,,,,,,,Starting balance: ,,"$1,000"
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,-119%,,,
+,,,,,,,,Decrease in total savings,,,
+,,,,,,,,"-$1,187",,,
+,,,START BALANCE , END BALANCE,,,,Saved this month,,,
+,,,"$1,000",-$187,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,Expenses,,,,,,Income,,,,
+,Planned,"$30,955",,,,,Planned,"$30,966",,,
+,Actual,"$34,153",,,,,Actual,"$32,966",,,
+,,,,,,,,,,,
+,Expenses,,,,,,Income,,,,
+,,,Planned,Actual,Diff.,,,,Planned,Actual,Diff.
+,Totals,,"$30,955","$34,153","-$3,198",,Totals,,"$30,966","$32,966","+$2,000"
+,,,,,,,,,,,
+,Constant bills,,"$13,525","$13,427",+$98,,Savings,,$0,$0,$0
+,Shopping,,"$2,010","$2,824",-$814,,Paycheck,,"$30,966","$30,966",$0
+,Groceries,,$270,$450,-$180,,Bonus,,$0,$0,$0
+,Meat,,"$1,500","$1,304",+$196,,Interest,,$0,$0,$0
+,Greens,,$200,$310,-$110,,Other,,$0,"$2,000","+$2,000"
+,Fruits,,$200,$570,-$370,,Custom category ,,$0,$0,$0
+,Bread,,$200,$375,-$175,,,,,,
+,Kufua,,$700,$690,+$10,,,,,,
+,Savings,,"$6,500","$6,550",-$50,,,,,,
+,Self-care,,"$1,900","$1,655",+$245,,,,,,
+,Snacks/miscellaneous,,$450,"$2,417","-$1,967",,,,,,
+,Sadaka,,$500,$500,$0,,,,,,
+,Fare,,"$2,500","$2,501",-$1,,,,,,
+,Airtime,,$500,$580,-$80,,,,,,
